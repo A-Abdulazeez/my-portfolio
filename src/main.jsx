@@ -66,7 +66,7 @@ function App() {
           <div className="hero-meta"><span><MapPin size={14}/> Lagos, Nigeria</span><span className="meta-divider"/><span><Terminal size={14}/> Java · APIs · Systems</span></div>
         </div>
         <div className="hero-visual">
-          <div className="image-frame"><img src="2F3249BB-607D-4C99-8224-CFDBCC6752B9_1_105_c.jpeg" alt="2F3249BB-607D-4C99-8224-CFDBCC6752B9_1_105_c.jpeg"/><span className="image-index"></span></div>
+          <div className="image-frame"><img src="/images/me.jpeg" alt="My Photo"/><span className="image-index"></span></div>
           <div className="visual-note"><span className="note-line"/><span>Curious by nature.<br/>Practical by design.</span></div>
           <span className="orbit orbit-one"/><span className="orbit orbit-two"/>
         </div>
